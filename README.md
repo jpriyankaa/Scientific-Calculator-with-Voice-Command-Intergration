@@ -28,13 +28,13 @@
 To run this project, you need to have Python installed on your machine along with the required libraries.
 
 1. **Clone the repository**:
-    ```sh
+    ```
     git clone https://github.com/yourusername/scientific-calculator.git
     cd scientific-calculator
     ```
 
 2. **Install the required libraries**:
-    ```sh
+    ```
     pip install pygame speechrecognition
     ```
 
@@ -42,7 +42,7 @@ To run this project, you need to have Python installed on your machine along wit
     Ensure that you have `music1.mp3` and `music2.mp3` in the project directory. These files are used for audio feedback.
 
 4. **Run the application**:
-    ```sh
+    ```
     python calculator.py
     ```
 
@@ -75,4 +75,4 @@ The calculator can recognize and execute a variety of commands, including but no
 - "Calculate 25 divided by 5"
 - "Subtract 97 and 45"
 
-  ###Thank you! 😀
+  ### Thank you! 😀
